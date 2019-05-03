@@ -15,5 +15,12 @@
         "psr-4": {
             "Blessedkono\\Pesapal\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Blessedkono\\Pesapal\\PesaPalServiceProvider"
+        ],
     }
+},
 }
