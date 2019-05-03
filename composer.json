@@ -1,0 +1,19 @@
+{
+    "name": "blessedkono/pesalpal",
+    "description": "Laravel package for pesapal payment integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dontito",
+            "email": "francistito07@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Blessedkono\\Pesapal\\": "src/"
+        }
+    }
+}
