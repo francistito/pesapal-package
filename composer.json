@@ -5,12 +5,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "dontito",
+            "name": "Francis tito",
             "email": "francistito07@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "minimum-stability": "stable",
+    "require": {
+
+    },
     "autoload": {
         "psr-4": {
             "Blessedkono\\Pesapal\\": "src/"
