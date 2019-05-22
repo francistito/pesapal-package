@@ -3,7 +3,7 @@ laravel pesapal package
 
 **Installation**
 
-`composer require blessedkono/pesalpal`
+`composer require blessedkono/pesapal`
 
 **Update your config**
 
