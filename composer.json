@@ -1,5 +1,5 @@
 {
-    "name": "blessedkono/pesalpal",
+    "name": "blessedkono/pesapal",
     "description": "Laravel package for pesapal payment integration",
     "type": "library",
     "license": "MIT",
@@ -9,9 +9,9 @@
             "email": "francistito07@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": "true",
+
     "require": {
+        "minimum-stability": "dev"
 
     },
     "autoload": {
