@@ -9,7 +9,8 @@
             "email": "francistito07@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": "true",
     "require": {
 
     },

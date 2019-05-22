@@ -7,12 +7,12 @@ laravel pesapal package
 
 **Update your config**
 
-kkk
+
 
 **Publish the package configuration**
 
 
-hh
+
 
 
 
